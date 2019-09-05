@@ -223,7 +223,7 @@ end
 This results in our rendered JSON including an `"attributes"` object with 
 `"created_at"`, `"bird"`, and `"location"`:
 
-```js
+```js 
 {
   "id": "2",
   "type": "sighting",
